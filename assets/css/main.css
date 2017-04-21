@@ -2293,6 +2293,10 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			/**/
+			/*position: relative;
+			text-align: center;
+			vertical-align: middle;*/
 		}
 
 			ul.icons li {
@@ -3407,7 +3411,7 @@
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/banner1.jpg");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
